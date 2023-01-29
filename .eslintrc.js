@@ -15,7 +15,7 @@ module.exports = {
   overrides: [],
   // 사용환경을 최신 자바스트립트로 가정
   parserOptions: {
-      ecmaVersion: 'latest'
+      ecmaVersion: 'latest'g
   },
   // extends 옵션으로 지정한 룰셋을 덮어씌운다
   rules: {
